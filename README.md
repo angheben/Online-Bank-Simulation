@@ -14,4 +14,5 @@ In this project you have all those options bellow to work
     print('5 - List accounts')
     print('6 - Exit the program')
     
+For all those options you will be able to interact with the system and come back to the menu page whenever you want or end the program
 """
